@@ -82,20 +82,5 @@
 
 <hr style="border: 0.5px solid #999;" />
 
-<!-- Projects Showcase -->
-<h2 align="center">🛠️ Project Gallery 🛠️</h2>
-<div align="center">
-  <a href="https://github.com/Sagarchhetri83/CodeLock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchhetri83&repo=CodeLock&theme=tokyonight&border_radius=10" alt="CodeLock" />
-  </a>
-  <a href="https://github.com/Sagarchhetri83/Bus-Tracker-Final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchhetri83&repo=Bus-Tracker-Final&theme=tokyonight&border_radius=10" alt="Bus-Tracker-Final" />
-  </a>
-  <a href="https://github.com/Sagarchhetri83/DecepTron">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchhetri83&repo=DecepTron&theme=tokyonight&border_radius=10" alt="DecepTron" />
-  </a>
-  <a href="https://github.com/Sagarchhetri83/TextEditor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchhetri83&repo=TextEditor&theme=tokyonight&border_radius=10" alt="TextEditor" />
-  </a>
-</div>
+
 
