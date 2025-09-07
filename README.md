@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+my+GitHub+Journey!+🧑‍💻;I'm+Sagar+Chhetri,+a+cybersecurity+enthusiast+&+Software+Developer+💻;Always+learning+and+building+cool+things!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;I'm+Sagar+Chhetri,+cybersecurity+enthusiast+&+Software+Developer+💻">
 </h1>
 
 <br/>
