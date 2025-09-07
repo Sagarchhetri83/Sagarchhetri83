@@ -68,19 +68,31 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=sagarchhetri83&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchhetri83&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="top langs"/>
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=sagarchhetri83&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchhetri83&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="top langs"/>
+
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarchhetri83&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarchhetri83&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagarchhetri83&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarchhetri83&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagarchhetri83&theme=tokyonight" />
+
+  <!-- Profile Details -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarchhetri83&theme=dark" />
+
+
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarchhetri83&theme=dark"/>
+
 </div>
 
-<hr style="border: 0.5px solid #999;" />
+<hr style="border: 0.5px solid #2c2c2c;" />
+<div align="center">
+  <p>Made by ❤️ by Sagar</p>
+</div>
+
 
 
 
